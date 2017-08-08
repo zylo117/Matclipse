@@ -1,0 +1,10 @@
+org.eclipselabs.matclipse.mconsole
+org.eclipselabs.matclipse.mconsole.builder
+org.eclipselabs.matclipse.mconsole.decorators
+org.eclipselabs.matclipse.mconsole.internal.ui.actions
+org.eclipselabs.matclipse.mconsole.internal.ui.perspectives
+org.eclipselabs.matclipse.mconsole.internal.ui.preferences
+org.eclipselabs.matclipse.mconsole.internal.ui.wizards
+org.eclipselabs.matclipse.mconsole.matlab
+org.eclipselabs.matclipse.mconsole.matlab.impl
+org.eclipselabs.matclipse.mconsole.views
